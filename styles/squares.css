@@ -1,0 +1,50 @@
+div {
+	position: relative; 
+}
+
+#container {
+	width: 400px;
+    margin: 0 auto;
+    margin-top: 50px; 
+  
+}
+
+#blue:hover {
+	top: -100px; 
+}
+
+#yellow:hover {
+	top: -200px; 
+}
+
+#orange:hover {
+	top: -300px; 
+
+}
+	
+#red {
+	width: 100px; 
+	height: 100px; 
+	background-color: red;
+}
+
+#blue {
+	left: 100px; 
+	width: 100px; 
+	height: 100px; 
+	background-color: blue;
+}
+
+#yellow {
+	left: 200px; 
+	width: 100px; 
+	height: 100px; 
+	background-color: yellow;
+}
+
+#orange{
+	left:300px;
+	width: 100px; 
+	height: 100px; 
+	background-color: orange; 
+}
